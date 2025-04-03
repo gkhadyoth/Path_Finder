@@ -1,5 +1,4 @@
-# Working:
-This project focuses on determining the optimal path between a given start and end point on a map. Along the route, there may be multiple intermediate waypoints. These waypoints are prioritized based on their proximity to the starting point—the nearest waypoint is visited first, followed by the next closest, continuing in this manner until the destination is reached.
+** This project focuses on determining the optimal path between a given start and end point on a map. Along the route, there may be multiple intermediate waypoints. These waypoints are prioritized based on their proximity to the starting point—the nearest waypoint is visited first, followed by the next closest, continuing in this manner until the destination is reached. **
 
 
 # New York: 
